@@ -52,7 +52,7 @@ src
 
 1. Cài đặt Java 17 (hoặc cao hơn)
 2. Cài đặt Maven
-3. Tạo database SQL Server tên `user_management` và cấu hình lại trong `application.properties`:
+3. Tạo database SQL Server tên `bai_test` và cấu hình lại trong `application.properties`:
 
 ```properties
 spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName=bai_test
